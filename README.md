@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Hi 👋, I'm Nicolas</h1>
+<h1 align="center">Hi 👋, I'm Nicolas Duprat</h1>
 <h3 align="center">A passionate gamer looking to become a dev</h3>
 
 <h3 align="left">Connect with me:</h3>
